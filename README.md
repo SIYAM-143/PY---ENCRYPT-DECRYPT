@@ -12,7 +12,7 @@ For on Python Script Encryption And Decryption
 # MAIN COMMANDS
 - `git clone https://github.com/SIYAM-143/PY-ENCRYPT-DECRYPT`
 - `cd PY-ENCRYPT-DECRYPT`
-- `python MR-WHITE-ENC-DEC.py`
+- `python ENCRYPT-PYTHON.py`
 
 
 # Command
