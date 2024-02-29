@@ -15,5 +15,5 @@ For on Python Script Encryption And Decryption
 - `python MR-WHITE-ENC-DEC.py`
 
 
-# prove
+# Command
 ![Untitled Project (2)](https://i.postimg.cc/R0KG7nbs/IMG-20240229-090027.jpg)
