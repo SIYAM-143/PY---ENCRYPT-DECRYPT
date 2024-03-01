@@ -10,8 +10,8 @@ For on Python Script Encryption And Decryption
 - `pkg install python`
 
 # MAIN COMMANDS
-- `git clone https://github.com/SIYAM-143/PY-ENCRYPT-DECRYPT`
-- `cd PY-ENCRYPT-DECRYPT`
+- `git clone https://github.com/SIYAM-143/PY-ENCRYPT`
+- `cd PY-ENCRYPT`
 - `python ENCRYPT_PYTHON.py`
 
 
